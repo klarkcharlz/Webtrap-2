@@ -1,0 +1,22 @@
+2021-05-15T16:13:02.161439+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 13, 2, 161429), 'url': '/api/'}
+2021-05-15T16:14:30.550154+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 14, 30, 550144), 'url': '/api/'}
+2021-05-15T16:15:50.136533+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 15, 50, 136521), 'url': '/api/', 'method': 'GET'}
+2021-05-15T16:15:50.422127+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 15, 50, 422116), 'url': '/api/', 'method': 'GET'}
+2021-05-15T16:15:50.614993+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 15, 50, 614981), 'url': '/api/', 'method': 'GET'}
+2021-05-15T16:17:24.948327+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 17, 24, 948313), 'url': '/api/', 'method': 'GET', 'status': 404}
+2021-05-15T16:19:35.804742+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 19, 35, 804692), 'url': '/api/', 'method': 'GET', 'status': 404, 'params': <QueryDict: {'dsfdsf': ['3']}>}
+2021-05-15T16:20:06.566906+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 20, 6, 566860), 'url': '/api/', 'method': 'GET', 'status': 404, 'params': {'dsfdsf': ['3']}}
+2021-05-15T16:22:09.757970+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 22, 9, 757922), 'url': '/api/', 'method': 'GET', 'status': 404, 'params': {'dsfdsf': ['3']}}
+2021-05-15T16:23:25.434200+0000 INFO {'time': datetime.datetime(2021, 5, 15, 16, 23, 25, 434164), 'url': '/api/', 'method': 'GET', 'status': 404, 'params': {'sdfdsf': ['3']}}
+2021-05-15T16:24:21.467835+0000 INFO {'time': '2021-05-15 16:24:21', 'url': '/api/', 'method': 'GET', 'status': 404, 'params': {'sdfdsf': ['3']}}
+2021-05-15T16:24:25.596345+0000 INFO {'time': '2021-05-15 16:24:25', 'url': '/api/', 'method': 'GET', 'status': 404, 'params': {'sdfdsf': ['3']}}
+2021-05-15T16:25:24.700939+0000 INFO {'time': '2021-05-15 16:25:24', 'url': '/api/', 'method': 'GET', 'status': 404, 'params': {'sdfdsf': ['3']}}
+2021-05-15T16:25:32.973960+0000 INFO {'time': '2021-05-15 16:25:32', 'url': '/', 'method': 'GET', 'status': 200, 'params': None}
+2021-05-15T16:25:48.653042+0000 INFO {'time': '2021-05-15 16:25:48', 'url': '/', 'method': 'POST', 'status': 200, 'params': None}
+2021-05-15T16:26:08.782783+0000 INFO {'time': '2021-05-15 16:26:08', 'url': '/', 'method': 'POST', 'status': 200, 'params': None}
+2021-05-15T16:26:24.128025+0000 INFO {'time': '2021-05-15 16:26:24', 'url': '/', 'method': 'POST', 'status': 200, 'params': None}
+2021-05-15T16:36:30.697162+0000 INFO {'time': '2021-05-15 16:36:30', 'url': '/', 'method': 'POST', 'status': 200, 'params': 'klark.charlz@mail.com'}
+2021-05-15T16:36:31.454598+0000 INFO {'time': '2021-05-15 16:36:31', 'url': '/', 'method': 'POST', 'status': 200, 'params': 'klark.charlz@mail.com'}
+2021-05-15T16:36:31.654241+0000 INFO {'time': '2021-05-15 16:36:31', 'url': '/', 'method': 'POST', 'status': 200, 'params': 'klark.charlz@mail.com'}
+2021-05-15T16:36:31.814470+0000 INFO {'time': '2021-05-15 16:36:31', 'url': '/', 'method': 'POST', 'status': 200, 'params': 'klark.charlz@mail.com'}
+2021-05-15T16:36:47.129157+0000 INFO {'time': '2021-05-15 16:36:47', 'url': '/', 'method': 'POST', 'status': 200, 'params': 'klark.charlz@mail.com'}

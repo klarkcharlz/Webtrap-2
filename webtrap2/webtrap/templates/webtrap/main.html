@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Webtrap 2</title>
+</head>
+<body>
+    <h1>Webtrap 2</h1>
+
+    <form action="{% url 'main' %}" method="post">
+        {% csrf_token %}
+        <fieldset>
+            <legend> <b> Контактные данные </b> </legend>
+            <label for="email">Введите вашу электронную почту: </label>
+		    <input type="email" size="30" placeholder = "Ваша почта" name="email" id="email"><br>
+            <input type="submit" value="Отправить" >
+        </fieldset>
+    </form>
+</body>
+</html>
